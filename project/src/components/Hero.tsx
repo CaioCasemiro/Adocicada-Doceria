@@ -8,9 +8,9 @@ const Hero = () => {
     <section id="inicio" className="relative h-screen">
       <div className="absolute inset-0">
         <img 
-          src="https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80"
+          src="media\IMG_6058.jpg"
           alt="Doces"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover scale-91"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-[#3C3B40]/70 to-[#3C3B40]/50"></div>
       </div>
