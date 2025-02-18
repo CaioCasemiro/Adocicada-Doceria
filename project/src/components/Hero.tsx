@@ -8,7 +8,7 @@ const Hero = () => {
     <section id="inicio" className="relative h-screen">
       <div className="absolute inset-0">
         <img 
-          src="media\IMG_6058.jpg"
+          src="media\IMG_6058.webp"
           alt="Doces"
           className="w-full h-full object-cover scale-91"
         />
