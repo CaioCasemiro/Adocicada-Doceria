@@ -8,10 +8,10 @@ const Hero = () => {
     <section id="inicio" className="relative h-screen">
       <div className="absolute inset-0">
         <img 
-          src="media\IMG_6058.webp"
+          src="media/IMG_6058.webp"
           alt="Doces"
-          className="w-full h-full object-cover scale-91"
-        />
+          className="w-full h-full object-cover"
+        />  
         <div className="absolute inset-0 bg-gradient-to-r from-[#3C3B40]/70 to-[#3C3B40]/50"></div>
       </div>
       
